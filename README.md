@@ -1,5 +1,5 @@
 ### WELCOME TO BRAINF COMPILER
-Made this for my first ever DLang project!
+Made this for my first ever DLang project!<br>
 Might make graphics library with instructions...
 
 BrainF**k Tutorial: https://gist.github.com/roachhd/dce54bec8ba55fb17d3a
