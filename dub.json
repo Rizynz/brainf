@@ -1,0 +1,8 @@
+{
+    "name": "brainf",
+    "description": "BrainF**k compiler module in D",
+    "authors": ["gyno2fryd"],
+    "license": "MIT",
+    "dependencies": {},
+    "targetType": "library"
+}
